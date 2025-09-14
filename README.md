@@ -1,4 +1,4 @@
-# 🎮 2 Player Number Guessing Game (C++ Project)
+# 2 Player Number Guessing Game (C++ Project)
 
 A fun 2-player number guessing game written in C++!  
 Practice your C++ basics while playing with friends.
